@@ -10,4 +10,5 @@
 ### Generation_animation
 ![MNIST_cGAN_gneration_animation](https://user-images.githubusercontent.com/48430890/70844740-7a08bd00-1e88-11ea-81b9-558617972820.gif)
 ### Training example
+![MNIST_cGAN_train_hist](https://user-images.githubusercontent.com/48430890/70844749-a45a7a80-1e88-11ea-9c7a-3b5bc954d330.png)
 
