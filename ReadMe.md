@@ -12,3 +12,6 @@
 ### Training example
 ![MNIST_cGAN_train_hist](https://user-images.githubusercontent.com/48430890/70844749-a45a7a80-1e88-11ea-9c7a-3b5bc954d330.png)
 
+# RSTUDIO FASHION_MNIST
+# RSTUDION MNIST
+
