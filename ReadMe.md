@@ -43,13 +43,14 @@ generator (train) : loss 1.89 |  0.77 |  1.12
 generator (test) : loss 1.06 |  0.96 |  0.10
 discriminator (train) : loss 1.75 |  0.67 |  1.08
 discriminator (test) : loss 1.00 |  0.59 |  0.41
-
+![Rplot fashion mnist epoch 1](https://user-images.githubusercontent.com/48430890/70845401-91987380-1e91-11ea-8ffa-5204d9cc94ad.png)
 
 Testing for epoch 50:
 generator (train) : loss 0.70 |  0.70 |  0.00
 generator (test) : loss 0.68 |  0.67 |  0.00
 discriminator (train) : loss 0.83 |  0.70 |  0.13
 discriminator (test) : loss 0.83 |  0.70 |  0.14
+![Rplot fashion mnist epoch 50](https://user-images.githubusercontent.com/48430890/70845403-95c49100-1e91-11ea-8bab-87dd65181cf9.png)
 
 
 # RSTUDION MNIST
