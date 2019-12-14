@@ -40,5 +40,12 @@ Testing for epoch 01:
 
 ![mnist epoch 1](https://user-images.githubusercontent.com/48430890/70845182-d373ea80-1e8e-11ea-8d63-d77834f81422.png)
 
+Testing for epoch 50:
+     generator (train) : loss 0.70 |  0.70 |  0.00
+      generator (test) : loss 0.68 |  0.67 |  0.00
+ discriminator (train) : loss 0.83 |  0.70 |  0.13
+  discriminator (test) : loss 0.83 |  0.70 |  0.14
+
+![mnist epoch 50](https://user-images.githubusercontent.com/48430890/70845257-9c520900-1e8f-11ea-8d83-98abbcb72bb2.png)
 # RSTUDION MNIST
 
