@@ -8,5 +8,6 @@
 
 # PYTHON MNIST_CGAN 
 ### Generation_animation
+![MNIST_cGAN_gneration_animation](https://user-images.githubusercontent.com/48430890/70844740-7a08bd00-1e88-11ea-81b9-558617972820.gif)
 ### Training example
 
