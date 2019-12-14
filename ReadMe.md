@@ -38,6 +38,7 @@ Testing for epoch 01:
  discriminator (train) : loss 1.75 |  0.67 |  1.08
   discriminator (test) : loss 1.00 |  0.59 |  0.41
 
+![mnist epoch 1](https://user-images.githubusercontent.com/48430890/70845182-d373ea80-1e8e-11ea-8d63-d77834f81422.png)
 
 # RSTUDION MNIST
 
